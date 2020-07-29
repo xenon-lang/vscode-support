@@ -2,7 +2,12 @@
     "name": "xenon",
     "displayName": "Xenon",
     "description": "Xenon Language Support",
-    "version": "0.0.1",
+    "publisher": "Xenon-Lang",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xenon-lang/vscode-support.git"
+    },
     "engines": {
         "vscode": "^1.47.0"
     },
