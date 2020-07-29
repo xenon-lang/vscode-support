@@ -1,0 +1,25 @@
+{
+    "name": "xenon",
+    "displayName": "Xenon",
+    "description": "Xenon Language Support",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "xenon",
+            "aliases": ["Xenon", "xenon"],
+            "extensions": [".x"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "xenon",
+            "scopeName": "source.x",
+            "path": "./syntaxes/xenon.tmLanguage.json"
+        }]
+    }
+}
