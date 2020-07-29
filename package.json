@@ -3,6 +3,7 @@
     "displayName": "Xenon",
     "description": "Xenon Language Support",
     "publisher": "Xenon-Lang",
+    "icon": "build/XenonLangLogo.png",
     "version": "0.1.0",
     "repository": {
         "type": "git",
