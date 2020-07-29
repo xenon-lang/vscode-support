@@ -1,0 +1,32 @@
+{
+    "IO Libary" : {
+        "prefix": "io",
+		"body": [
+			"import \"io\""
+		],
+		"description": "Imports the io libary to you current file."
+    },
+    "Vec Libary" : {
+        "prefix": "vec",
+		"body": [
+			"import \"vec\""
+		],
+		"description": "Imports the vector libary to you current file."
+    },
+    "Print" : {
+        "prefix": "print",
+		"body": [
+			"std::print(\"Hello, World!\");"
+		],
+		"description": "Print Statement"
+    },
+    "Main" : {
+        "prefix": "main",
+		"body": [
+            "fn main() {",
+            "   ",
+            "}"
+		],
+		"description": "Imports the vector libary to you current file."
+    }
+}

@@ -20,6 +20,12 @@
             "language": "xenon",
             "scopeName": "source.x",
             "path": "./syntaxes/xenon.tmLanguage.json"
-        }]
+        }],
+        "snippets": [
+            {
+              "language": "xenon",
+              "path": "./snippets.json"
+            }
+        ]
     }
 }
