@@ -168,12 +168,8 @@
                 },
                 {
                     "name":"keyword.default.xenon",
-                    "match":"\\b(test|and|or)\\b"
+                    "match":"\\b(import|test|and|or)\\b"
 				},
-				{
-                    "name":"keyword.default.xenon",
-                    "match":"#import"
-                },
                 {
                     "name":"meta.error-set.xenon",
                     "patterns":[
